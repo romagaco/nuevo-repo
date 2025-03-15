@@ -1,1 +1,2 @@
 estamos probando nuevas funcionalidades 
+logramos enviarlo a este repositorio github, veremos si este ua se encuentra  pero desde la terminal
